@@ -35,7 +35,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-rqisl-i-think-therefore-65r8mxv735.us2.codeanyapp.com',
-                 'codestar2021.herokuapp.com',
+                 'i-thin-i-blog-885167d863c8.herokuapp.com/',
                  'localhost']
 
 
