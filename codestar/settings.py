@@ -31,8 +31,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-'https://i-thin-i'8000-rqisl-i-think-therefore-65r8mxv735.us2.codeanyapp.com',
-                 'localhost']
+ALLOWED_HOSTS = [
+    '8000-rqisl-i-think-therefore-65r8mxv735.us2.codeanyapp.com', 'localhost']
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
