@@ -31,7 +31,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['i-thin-i-blog-885167d863c8.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['i-thin-i-blog-885167d863c8.herokuapp.com',
+                 'rqisl-i-think-therefore-65r8mxv735.us2.codeanyapp.com' 'localhost']
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
